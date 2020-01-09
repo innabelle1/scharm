@@ -1,3 +1,3 @@
 # scharm
-* Логин: innabelle1
-* Пароль: ssh-agent
+* Login: innabelle1
+* Pass: ssh-agent
